@@ -1,0 +1,7 @@
+The solution for job history timeour error in pig map reduce mode was to add the hostname of the server into the configuration in mapred-site.xml to make sure it could be accesses from the other machines. (In my version of the file, the lines had to be added as "new" ... there were no previous settings.)
+
+<property>
+  <name>mapreduce.jobhistory.address</name>
+  <value>cm:10020</value>
+  <description>Host and port for Job History Server (default 0.0.0.0:10020)</description>
+</property>
