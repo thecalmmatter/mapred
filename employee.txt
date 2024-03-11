@@ -1,0 +1,8 @@
+id, firstname, lastname, age, post, jobid
+001,Rajiv,Reddy,21,programmer,113
+002,Siddarth,Battacharya,22,programmer,113
+003,Rajesh,Khanna,22,programmer,113
+004,Preethi,Agarwal,21,programmer,113
+005,Trupthi,Mohanthy,23,programmer,113
+006,Archana,Mishra,23,programmer,113
+007,Komal,Nayak,24,teamlead,112
