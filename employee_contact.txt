@@ -1,0 +1,9 @@
+id, mobileno, mail, age, city, jobid
+001,9848022337,Rajiv@gmail.com,Hyderabad,113
+002,9848022338,Siddarth@gmail.com,Kolkata,113
+003,9848022339,Rajesh@gmail.com,Delhi,113
+004,9848022330,Preethi@gmail.com,Pune,113
+005,9848022336,Trupthi@gmail.com,Bhuwaneshwar,113
+006,9848022335,Archana@gmail.com,Chennai,113
+007,9848022334,Komal@gmail.com,trivendram,112
+008,9848022333,Bharathi@gmail.com,Chennai,111
