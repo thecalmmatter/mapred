@@ -1,2 +1,3 @@
 https://downloads.apache.org/hive/hive-1.2.2/apache-hive-1.2.2-bin.tar.gz
+https://downloads.apache.org/hive/hive-1.2.2/apache-hive-1.2.2-bin.tar.gz.sha256
 
