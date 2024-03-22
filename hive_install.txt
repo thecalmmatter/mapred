@@ -1,3 +1,5 @@
 https://downloads.apache.org/hive/hive-1.2.2/apache-hive-1.2.2-bin.tar.gz
 https://downloads.apache.org/hive/hive-1.2.2/apache-hive-1.2.2-bin.tar.gz.sha256
 
+https://dlcdn.apache.org/hive/hive-4.0.0-beta-1/apache-hive-4.0.0-beta-1-bin.tar.gz
+
